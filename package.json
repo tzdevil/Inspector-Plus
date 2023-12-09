@@ -1,0 +1,13 @@
+{
+  "name": "com.tzdevil.inspectorplus",
+  "displayName": "Inspector Plus",
+  "version": "0.1.0",
+  "unity": "2020.1",
+  "description": "Inspector+ is a tool that separates the Components of your GameObjects into tabs and helps you see the Components in the tab you want. Programmed by tzdevil.",
+  "author": {
+    "name": "tzdevil",
+    "email": "champtzcsgo@gmail.com",
+    "url": "https://github.com/tzdevil/Inspector-Plus"
+  },
+  "type": "tool"
+}
